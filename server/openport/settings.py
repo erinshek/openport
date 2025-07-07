@@ -28,6 +28,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'account',
+    'tunnel',
 
     'rest_framework',
     'rest_framework.authtoken',
